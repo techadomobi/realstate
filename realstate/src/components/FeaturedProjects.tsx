@@ -8,7 +8,7 @@ const projects = [
     image: 'https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=800',
     type: '3 & 4 BHK Apartments',
     status: 'Ready to Move',
-    price: 'Starting $850K',
+    price: 'Starting Rs. 7.5 Cr',
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const projects = [
     image: 'https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=800',
     type: '2 & 3 BHK Apartments',
     status: 'Under Construction',
-    price: 'Starting $620K',
+    price: 'Starting Rs. 5.2 Cr',
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ const projects = [
     image: 'https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=800',
     type: '4 & 5 BHK Villas',
     status: 'New Launch',
-    price: 'Starting $1.2M',
+    price: 'Starting Rs. 10.8 Cr',
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const projects = [
     image: 'https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800',
     type: '2, 3 & 4 BHK',
     status: 'Ready to Move',
-    price: 'Starting $540K',
+    price: 'Starting Rs. 4.6 Cr',
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ const projects = [
     image: 'https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=800',
     type: '3 & 4 BHK Apartments',
     status: 'Under Construction',
-    price: 'Starting $480K',
+    price: 'Starting Rs. 3.9 Cr',
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ const projects = [
     image: 'https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=800',
     type: '2 & 3 BHK Apartments',
     status: 'New Launch',
-    price: 'Starting $690K',
+    price: 'Starting Rs. 5.8 Cr',
   },
 ];
 
