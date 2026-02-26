@@ -4,12 +4,6 @@ A modern, responsive real estate website built with React, TypeScript, and Vite.
 
 ## 📦 Repository Information
 
-This project is available on multiple repositories:
-- **Primary Repository**: [https://github.com/Yashika-code/realstate_clicksmeta](https://github.com/Yashika-code/realstate_clicksmeta)
-- **Secondary Repository**: [https://github.com/techadomobi/realstate](https://github.com/techadomobi/realstate)
-
-Both repositories contain the complete project with identical functionality and documentation.
-
 ## 🏠 Features
 
 - **Modern Design**: Clean, responsive layout with smooth animations
@@ -156,18 +150,6 @@ The website is built with a mobile-first approach and includes responsive design
 - Mobile devices (320px - 768px)
 - Tablets (768px - 1024px)
 - Desktop (1024px and above)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
